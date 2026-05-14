@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHARCHIT-hub</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 💻 OS Explorer | 1st Year CS Student | 🇮🇳 India</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | 💻 OS Explorer | 1st Year CS Student | </h3>
 
 
 
